@@ -19,7 +19,7 @@ public class TypeDatas {
         double myDouble = 1000.85;
 
         char myChar = 'd'; // для хранения символа
-        String myStr = "Мама купила трактора"; // для хранения строки
+        String myStr = "Мама купила зерна"; // для хранения строки
 
         boolean myBoolean = true; // false - логический тип
 
